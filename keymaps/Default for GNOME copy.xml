@@ -14,11 +14,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoLine" />
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
 </keymap>
