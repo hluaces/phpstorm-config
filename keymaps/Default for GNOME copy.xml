@@ -1,6 +1,13 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="ContextHelp" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -22,8 +29,13 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="SendEOF" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
