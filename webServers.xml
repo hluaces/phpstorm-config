@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ac77accd-d944-4e9c-85cd-23cdd5c0347b" name="localhost" url="http://localhost">
+      <webServer id="ac77accd-d944-4e9c-85cd-23cdd5c0347b" name="localhost" url="http://localhost:9000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
