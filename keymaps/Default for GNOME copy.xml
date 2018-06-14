@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoLine" />
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
   <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
@@ -52,6 +55,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="Stop" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
