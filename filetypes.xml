@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tt" type="HTML" />
       <mapping pattern="b1PdOE1Te4fQUdNa+oDE" type="PLAIN_TEXT" />
       <mapping ext="sea" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" approved="true" type="PLAIN_TEXT" />
