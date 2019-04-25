@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="tt" type="HTML" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="b1PdOE1Te4fQUdNa+oDE" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sea" type="PLAIN_TEXT" />
