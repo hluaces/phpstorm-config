@@ -45,8 +45,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581641295415" />
-              <option name="times" value="760" />
+              <option name="last" value="1581644039142" />
+              <option name="times" value="761" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581641233503" />
-              <option name="times" value="232" />
+              <option name="last" value="1581644044810" />
+              <option name="times" value="235" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581641237346" />
-              <option name="times" value="322" />
+              <option name="last" value="1581644037766" />
+              <option name="times" value="323" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,16 +325,16 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1581639832471" />
-              <option name="times" value="9" />
+              <option name="last" value="1581644009570" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581640014564" />
-              <option name="times" value="24" />
+              <option name="last" value="1581643995714" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -429,16 +429,16 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581639956200" />
-              <option name="times" value="123" />
+              <option name="last" value="1581644039874" />
+              <option name="times" value="124" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581641295665" />
-              <option name="times" value="227" />
+              <option name="last" value="1581644046642" />
+              <option name="times" value="229" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581637525512" />
-              <option name="times" value="23" />
+              <option name="last" value="1581644045045" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="com.intellij.ide.util.FileStructurePopup$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581639836162" />
-              <option name="times" value="6" />
+              <option name="last" value="1581644011295" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
