@@ -4,11 +4,14 @@
       <mapping ext="tt" type="HTML" />
       <mapping pattern="Dockerfile-bofhers_composer" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-bofhers_mysql" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-bofhers_php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="b1PdOE1Te4fQUdNa+oDE" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-bofhers_nginx" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="bofhers_php" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="sea" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
