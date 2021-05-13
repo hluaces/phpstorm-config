@@ -2,17 +2,18 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="5df59104-8315-4119-849c-80853f50c7e3" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://php:7.3/php" id="21211c79-033d-495f-bc19-2de383a314d0" name="php:73" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:7.3" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="5df59104-8315-4119-849c-80853f50c7e3" name="PHP 7" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="21211c79-033d-495f-bc19-2de383a314d0" name="php:73" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:7.3" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
-      <interpreter home="docker://php:5.4/php" id="b6ecaf30-dfc0-4adb-a9cc-b072844e39a4" name="php:5.4" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:5.4" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="b6ecaf30-dfc0-4adb-a9cc-b072844e39a4" name="php:5.4" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:5.4" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
